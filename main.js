@@ -58,9 +58,3 @@ ScrollReveal().reveal(".service__card", {
   ...scrollRevealOption,
   interval: 500,
 });
-
-// portfolio container
-ScrollReveal().reveal(".portfolio__card", {
-  duration: 1000,
-  interval: 500,
-});
